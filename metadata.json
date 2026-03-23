@@ -1,0 +1,10 @@
+{
+  "name": "tavily-web-search",
+  "title": "Tavily 免费搜索",
+  "description": "AI-powered web search API with real-time results and answer synthesis. Free tier: 1000 searches/day. Use when: researching topics, finding current information, gathering URLs, or needing AI-synthesized answers.",
+  "description_zh": "AI 产品经理必备的免费搜索工具，每月 1000 次免费搜索",
+  "full_name": "Conrad-Finn/tavily-web-search",
+  "type": "skill",
+  "author": "Conrad-Finn",
+  "score": 95
+}
